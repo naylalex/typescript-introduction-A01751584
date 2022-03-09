@@ -15,5 +15,10 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.6.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "npm run tsc -- --init"
   }
 }
